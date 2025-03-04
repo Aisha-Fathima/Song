@@ -2,7 +2,8 @@
 
 import yt_dlp
 
-video_url = "https://www.youtube.com/watch?v=GGJOC1FNqn8"
+video_url = "https://www.youtube.com/watch?v=GGJOC1FNqn8" 
+# Replace with song of your choice
 
 ydl_opts = {
     'format': 'bestaudio/best',
